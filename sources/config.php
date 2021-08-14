@@ -17,10 +17,13 @@ $napthe = "Nạp thẻ"; // Mấy cái nút
 $news = "Thông báo"; // Mấy cái nút
 // Liên kết (đường link) cho mấy cái Trang Chủ, Giftcode, Sự kiện,... bên trên
 $homelink = "../"; // Để mặc định nha
-$giftcodelink = ""; // Nếu có giftcode thì ghi đường dẫn nha :D
+$giftcodelink = "../list/giftcode.php"; // Đường dẫn đến trang giftcode
 $eventlink = ""; // Nếu có event thì ghi đường dẫn nha :D
 $napthelink = ""; // Tui chưa update nạp thẻ đâu :D
 $newslink = ""; // Nếu có phần Thông báo thì ghi đường dẫn vô nghen :)
+// Code by Đoàn Bảo. Configuration for mấy thằng ngu không biết edit code :).
+// UPDATE !
+// ! NOTE : DO CÓ MẤY THẰNG NGU NHƯ PHO1 ĐÉO BIẾT EDIT CODE NÊN TÔI PHẢI THÊM VÀI CÁI NÀY :(, DÙ NÓ LÀM XẤU CODE NHƯNG DỄ CHO MẤY THẰNG NGU CODE
 ?>
 <?php
 // Phần index.php (Trang chủ)

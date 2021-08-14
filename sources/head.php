@@ -13,7 +13,7 @@ require("config.php");
 <html>
 <head>
   <title><?php echo $title; ?></title>
-  <link type="text/css" rel="stylesheet" href="../sources/allofthis.css" />
+  <link type="text/css" rel="stylesheet" href="../sources/css/giaodien.css" />
 </head>
 <body>
 <center><a href="<?php echo $host; ?>"><img src=<?php echo $logo;?> alt="Logo Máy chủ" id="logo" /></a></center>

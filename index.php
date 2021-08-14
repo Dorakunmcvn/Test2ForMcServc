@@ -15,7 +15,7 @@
 	<br />
 	<center><p id="rec-donate"><?php echo $naptherc; ?></p></center>
 	<br />
-	<center><a href="<?php echo $btnnaplink; ?>" id="rec-donate-link"><b id="rec-donate-btn"><?php echo $btnnaprc; ?></b></b></a></center>
+	<center><a href="<?php echo $btnnaplink; ?>" id="rec-donate-link"><b class="rec-donate-btn"><?php echo $btnnaprc; ?></b></b></a></center>
 	<!--Comment phía dưới là phiên bản cũ của code!-->
 	<!--Đây chỉ là comment nên edit cũng không ảnh hưởng đến code, code example :
 	<center><b style="color: white; font-size: 35px;">Chào mừng đến với Website của máy chủ MangoMC !</b></center>

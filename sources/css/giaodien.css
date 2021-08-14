@@ -1,0 +1,98 @@
+#welcome {
+	color: white;
+	font-size: 35px;
+	font-family: "Arial";
+	/* Design by Doan Bao */
+}
+#note {
+	border: 1px solid gainsboro;
+	width: 500px;
+	height: 150px;
+	margin: auto;
+	font-size: 25px;
+	color: white;
+	background-color: gray;
+	/* Design by Doan Bao */
+}
+#rec-donate {
+	color: white;
+	font-size: 20px;
+	font-family: "Arial";
+	/* Design by Doan Bao */
+}
+#rec-donate-link {
+	text-decoration: none;
+	font-family: "Arial";
+	/* Design by Doan Bao */
+}
+.rec-donate-btn {
+	background: #76B3FA;
+    border-radius: 100px;
+    padding: 20px 60px;
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.45em;
+    margin: 0 15px;
+  
+	/* Design by Doan Bao */
+}
+.rec-donate-btn:hover {
+    background: #F1F1F1;
+	color: #333;
+}
+#logo {
+	height: 80px;
+	width: 81px;
+	/* Design by Doan Bao */
+}
+#logo_name {
+	font-family: 'Arial';
+	color: white;
+	/* Design by Doan Bao */
+}
+.head-css-options {
+	font-size: 25px;
+	font-family: 'Arial';
+	color: gray;
+	/* Design by Doan Bao */
+}
+#list ul {
+	background: #1F568B;
+    list-style-type: none;
+    text-align: center;
+	/* Design by Doan Bao */
+}
+#list li {
+	color: #f1f1f1;
+    display: inline-block;
+    width: 120px;
+    height: 40px;
+    line-height: 40px;
+    margin-left: -5px;
+	/* Design by Doan Bao */
+}
+#list a {
+	text-decoration: none;
+	color: #fff;
+	display: block;
+	font-family: 'Arial';
+	/* Design by Doan Bao */
+}
+#list a:hover {
+	background: #F1F1F1;
+	color: #333;
+	/* Design by Doan Bao */
+}
+#gift-note {
+    font-family: 'Arial';
+	color: white;
+	font-size: 20px;
+	/* Design by Doan Bao */
+}
+footer {
+    background-color:#ccc;
+    text-align:center;
+    padding:25px;
+    font-size:18px;
+	/* Design by Doan Bao */
+}
