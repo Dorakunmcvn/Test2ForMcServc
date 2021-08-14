@@ -5,8 +5,6 @@
 // Fb : /Sans.The.Original //
 /////////////////////////////
 // Biết chút về PHP
-// Có Config cho mấy thằng không biết edit code nhá :)
-// ĐÃ UPDATE THÊM VÀI CÁI NHƯ THÔNG BÁO, GIFTCODE, BLA BLA BLA...
 ?>
     <?php
 	  require("sources/head.php");
