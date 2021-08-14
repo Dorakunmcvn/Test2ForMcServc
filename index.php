@@ -10,12 +10,14 @@
 	  require("sources/head.php");
 	?>
 	<br />
-	<center><b id="welcome">Chào mừng đến với Website của máy chủ <?php echo $servername ?> !</b></center>
-	<center><p id='note'><?php echo $indexnote; ?></p></center>
+	<center>
+	<b id="welcome">Chào mừng đến với Website của máy chủ <?php echo $servername ?> !</b>
+	<p id='note'><?php echo $indexnote; ?></p>
 	<br />
-	<center><p id="rec-donate"><?php echo $naptherc; ?></p></center>
+	<p id="rec-donate"><?php echo $naptherc; ?></p>
 	<br />
-	<center><a href="<?php echo $btnnaplink; ?>" id="rec-donate-link"><b class="rec-donate-btn"><?php echo $btnnaprc; ?></b></b></a></center>
+	<a href="<?php echo $btnnaplink; ?>" id="rec-donate-link"><b class="rec-donate-btn"><?php echo $btnnaprc; ?></b></b></a>
+	</center>
 	<!--Comment phía dưới là phiên bản cũ của code!-->
 	<!--Đây chỉ là comment nên edit cũng không ảnh hưởng đến code, code example :
 	<center><b style="color: white; font-size: 35px;">Chào mừng đến với Website của máy chủ MangoMC !</b></center>
