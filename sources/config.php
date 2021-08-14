@@ -37,7 +37,7 @@ $admin = 'Doan Bao'
 <?php
 // Info
 $name = "McServSrc"; // Không được chỉnh sửa
-$version = "1.2"; // Không được chỉnh sửa
+$version = "1.2.1"; // Không được chỉnh sửa
 $author = "Doan Bao"; // Mặc định là Doan Bao, không được chỉnh sửa
 $lang = "HTML, CSS, PHP"; // Ngôn ngữ, không được chỉnh sửa
 $local = "Vietnam"; // Khu vực, không được chỉnh sửa
