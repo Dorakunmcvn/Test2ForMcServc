@@ -2,6 +2,14 @@
 $servername = "MangoMC"; // Tên máy chủ
 $logo = "'../images/logo.png'"; // Logo xuất hiện
 $title= "MangoMC - Máy chủ minecraft việt nam"; // Tiêu đề
+$backgroundcss = "background-color"; 
+// Nếu muốn nền background bằng hình ảnh : "background-image"
+// Nếu muốn nền backgroudn là màu sắc : "background-color"
+$backgroundcolor = "blue"; // Để mặc định là màu sắc.
+// Khi chỉnh $backgroundcss thành "background-color", bạn sẽ phải chỉnh $backgroundcolor
+//  thành "red" hoặc "#Màu Hex"
+// Khi chỉnh $backgroundcss thành "background-image", bạn sẽ phải chỉnh $backgroundcolor
+//  thành "url('đường dẫn tới hình ảnh')"
 $home = "Trang chủ"; // Mấy cái nút
 $giftcode = "Giftcode"; // Mấy cái nút
 $event = "Sự kiện"; // Mấy cái nút

@@ -14,10 +14,12 @@
 	  require("sources/head.php");
 	?>
 	<br />
-	<center><b style="color: white; font-size: 35px;">Chào mừng đến với Website của máy chủ <?php echo $servername ?> !</b></center>
-	<center><p id='khaitruong' style='border:1px solid green;width:300px;margin:auto; font-size: 25px;'><?php echo $indexnote; ?></p></center>
-	<center><p style='color: white; font-size: 20px;'><?php echo $naptherc; ?></p></center>
-	<center><a href="<?php echo $btnnaplink; ?>" ><b style='background-color: yellow;border:1px solid red;width:300px;margin:auto;color:white;font-family: "Arial";'><?php echo $btnnaprc; ?></b></a></center>
+	<center><b style="color: white; font-size: 35px; font-family: 'Arial';">Chào mừng đến với Website của máy chủ <?php echo $servername ?> !</b></center>
+	<center><p id='khaitruong' style='border:1px solid gainsboro;width:500px;height:150px;margin:auto; font-size: 25px;'><?php echo $indexnote; ?></p></center>
+	<br />
+	<center><p style='color: white; font-size: 20px; font-family: "Arial";'><?php echo $naptherc; ?></p></center>
+	<br />
+	<center><a href="<?php echo $btnnaplink; ?>" style="text-decoration: none;"><b style='background-color: yellow;border:1px solid gainsboro;width:355px;margin:auto;color:white;font-family: "Arial";'><?php echo $btnnaprc; ?></b></a></center>
 	<!--
 	Đây chỉ là comment nên edit cũng không ảnh hưởng đến code, code example :
 	<center><b style="color: white; font-size: 35px;">Chào mừng đến với Website của máy chủ MangoMC !</b></center>
